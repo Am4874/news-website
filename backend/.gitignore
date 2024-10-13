@@ -1,0 +1,50 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+logs/
+*.log
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+.editorconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build and dist files
+build/
+dist/
+
+# Test files
+test/
+coverage/
+
+# Documentation files
+docs/
+
+# Miscellaneous files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.zip
+*.rar
+*.tar
+*.gz
+*.bz2
+*.xz
+*.lzma
+*.7z
+
+# Node.js specific files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
