@@ -32,6 +32,15 @@ npm install
 4. **Set up the environment:** 
 ` VITE_API_KEY= YOUR_API_KEY  `
 
+## Usage
+
+```bash
+# follwing command run the project
+
+npm run dev
+
+```
+
 ##  
 
 ![overview](./frontend/src/assets/Screenshot%20from%202024-10-13%2019-35-20.png)
